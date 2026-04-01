@@ -1,21 +1,3 @@
-# Python Training Roadmap
-
-This repository is a structured path to learn Python through hands-on practice.
-
-## How To Use This Roadmap
-
-1. Complete topics in order.
-2. For each topic, finish all assignments.
-3. Push your code after every topic milestone.
-4. Add one improvement of your own to each assignment.
-
-## Learning Goals
-
-- Build a strong core in Python syntax and problem solving.
-- Write clean, modular, and reusable code.
-- Handle real-world input, files, and API data safely.
-- Prepare for intermediate projects and interviews.
-
 ## Topic Plan
 
 ### 1) Variables and Data Types
