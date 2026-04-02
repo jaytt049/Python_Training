@@ -1,0 +1,4 @@
+INFO: Started
+ERROR: Something failed
+INFO: Running
+ERROR: Crash detected
